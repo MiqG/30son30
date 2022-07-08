@@ -69,7 +69,11 @@ strong {
     outline-offset: 3px;
 }
 
-
+br { 
+    display:block; 
+    margin-top:10px; 
+    line-height:22px; 
+}
 /* Buttons */
 
 .btn {
